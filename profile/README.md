@@ -1,6 +1,4 @@
-# About
-
-CORSMAL: Collaborative Object Recognition, Shared Manipulation And Learning.
+# CORSMAL: Collaborative Object Recognition, Shared Manipulation And Learning
 
 CORSMAL explored the fusion of multiple sensing modalities (touch, sound, and first and third person vision) to accurately and robustly estimate the physical properties of objects in noisy and potentially ambiguous environments. The project aimed to develop a framework for recognition and manipulation of objects via cooperation with humans by mimicking human capability of learning and adapting across a set of different manipulators, tasks, sensing configurations and environments. The project focus was to define learning architectures for multimodal sensory data and for aggregated data from different environments. The goal was to continually improve the adaptability and robustness of the learned models, and to generalise capabilities across tasks and sites. 
 
@@ -8,7 +6,6 @@ CORSMAL explored the fusion of multiple sensing modalities (touch, sound, and fi
 Official website: https://corsmal.github.io
 
 The website was originally hosted at http://corsmal.eecs.qmul.ac.uk/. This URL is still reachable.
-
 
 ## Project partners
 
